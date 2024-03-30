@@ -21,7 +21,7 @@ export default function PlayerSection({ setTheme }: any) {
         {dark ? (
           <i
             onClick={()=> changeTheme("black")}
-            className="fa-solid fa-text-2xl sm:text-4xl cursor-pointer"
+            className="fa-solid fa-moon text-2xl sm:text-4xl cursor-pointer"
           ></i>
         ) : (
           <i
