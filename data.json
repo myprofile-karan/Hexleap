@@ -1,0 +1,26 @@
+[
+    {
+        "image": "./assets/img1.jpeg",
+        "title":"Sacramento River Cats",
+        "totalEvents": "48 Events",
+        "sport": "Baseball"
+    },
+    {
+        "image": "./assets/img2.jpeg",
+        "title":"Las Vegas Aviators",
+        "totalEvents": "28 Events",
+        "sport": "Baseball"
+    },
+    {
+        "image": "./assets/img3.jpeg",
+        "title":"new jersey devils",
+        "totalEvents": "15 Events",
+        "sport": "Ice Hockey"
+    },
+    {
+        "image": "./assets/img2.jpeg",
+        "title":"Las Vegas Aviators",
+        "totalEvents": "28 Events",
+        "sport": "Baseball"
+    }
+]
